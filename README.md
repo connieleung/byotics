@@ -19,5 +19,6 @@ Control paramecia with an electric field and motion gesture
 
 ## Hardware
 ---
-* [Belkin WeMo Netcam](http://cache-www.belkin.com/support/dl/QIG_F7D7602_8820-01324_RevA00_NetCamHD.pdf) *PDF*
+~~* [Belkin WeMo Netcam](http://cache-www.belkin.com/support/dl/QIG_F7D7602_8820-01324_RevA00_NetCamHD.pdf) *PDF*~~
+
 
