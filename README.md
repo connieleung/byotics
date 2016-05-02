@@ -52,7 +52,7 @@ Control paramecias with an electric field and motion gesture
 * dielectric fabric, thread
 * Z-axis dielectric tape
 * wires
-* hydrocarbon (CnH2n+2) wax, aka paraffin wax
+* hydrocarbon (CnH2n+2) wax
 * double-sided tape
 * ravine water
 * non-dielectric insultar tape
