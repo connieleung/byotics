@@ -29,7 +29,7 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
-![Paramecias](byotics/assets/gif/StentorParameciumFeeding.gif)
+![Paramecias](https://github.com/connieleung/byotics/blob/gh-pages/assets/bg/Picture%202.jpg?raw=true)
 <br>
 ### About Parameicas
 ---
@@ -41,6 +41,7 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
+![hardware](https://github.com/connieleung/byotics/blob/gh-pages/arduino/sketch/assets/IMG_20160129_231453.jpg?raw=true)
 <br>
 ### Hardware
 ---
