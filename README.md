@@ -1,7 +1,7 @@
 
 
 ![Byotics](https://raw.githubusercontent.com/connieleung/byotics/gh-pages/assets/img/bioticgames-4.jpg)
-/// (assets/img/byotics-feature-img.jpg)
+
 # Byotics
 ### A Paramecia Pong Game Interface
 Control paramecias with an electric field and motion gesture
