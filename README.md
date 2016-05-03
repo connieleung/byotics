@@ -1,4 +1,6 @@
-![Byotics](file:///Users/connie/Documents/sandbox/paramecium-interface/assets/img/byotics-feature-img.jpg)
+
+
+![Byotics](https://raw.githubusercontent.com/connieleung/byotics/gh-pages/assets/img/bioticgames-4.jpg)
 /// (assets/img/byotics-feature-img.jpg)
 # Byotics
 ### A Paramecia Pong Game Interface
