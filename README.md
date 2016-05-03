@@ -1,10 +1,7 @@
-![Byotics](https://raw.githubusercontent.com/connieleung/byotics/gh-pages/assets/img/bioticgames-4.jpg)
-
+![Byotics](https://github.com/connieleung/byotics/blob/gh-pages/assets/bg/biotic-gaming.jpg?raw=true)
 # Byotics
 ### A Paramecia Pong Game Interface
 Control paramecias with an electric field and motion gesture
-
-
 
 
 <br>
@@ -29,7 +26,6 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
-![Paramecias](https://github.com/connieleung/byotics/blob/gh-pages/assets/bg/Picture%202.jpg?raw=true)
 <br>
 ### About Parameicas
 ---
@@ -41,7 +37,6 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
-![hardware](https://github.com/connieleung/byotics/blob/gh-pages/arduino/sketch/assets/IMG_20160129_231453.jpg?raw=true)
 <br>
 ### Hardware
 ---
@@ -63,6 +58,8 @@ Control paramecias with an electric field and motion gesture
 * clear nail polish
 * [multimeter](http://www.sciencebuddies.org/science-fair-projects/multimeters-tutorial.shtml#usingamultimeter)
 
+![hardware](https://github.com/connieleung/byotics/blob/gh-pages/arduino/sketch/assets/IMG_20160129_231453.jpg?raw=true?w=60)
+![Byotics](https://raw.githubusercontent.com/connieleung/byotics/gh-pages/assets/img/bioticgames-4.jpg?w=60)
 
 
 
