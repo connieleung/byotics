@@ -65,9 +65,20 @@ Control paramecias with an electric field and motion gesture
 <br>
 ### Setup
 ---
-###### Arduino
+###### Arduino Hookup Guide
 ---
-1. Arduino > Sketch > Include Library > Manage Libraries... > Search "SparkFun ZX Distance and Gesture Sensor v1.0.1" (or populate keyword "gesture") > Install
-2. Arduino > File > Examples > SparkFun ZX Distance and Gesture Sensor > Select "I2C_Gesture_Demo" to get you playing
+![Arduino Hookup Guide](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/zx_sensor_fritzing_bb.png)
+Fritzing Schematic
+![Arduino Hookup Guide 2](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/ZX_Sensor_Hook_Up_Guide-05.jpg)
+Real-life setup
+<br>
+###### Arduino Library Setup for ZX Sensor & Play
+---
+1. Sketch > Include Library > Manage Libraries... > Search "SparkFun ZX Distance and Gesture Sensor v1.0.1" (or populate keyword "gesture") > Install
+2. File > Examples > SparkFun ZX Distance and Gesture Sensor > Select "I2C_Gesture_Demo" to get you started
+3. ![Demo Run](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/Gesture_init.png) Run your demo
+3. ![Gesture Motion](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/ZX_Sensor_Hook_Up_Guide-05.jpg) Move your hand around above the sensor, and you should see Z (height above the sensor) and X (position side to side) appear in the serial terminal
+4. ![Gesture Arduino Run](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/ZX_Demo_run.png) Live Z- and X- data should appear given as an unsigned integer between 0 and 240 (inclusive)
+5. More information for this sensor part and hookup can be found on [SparkFun](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-hookup-guide#arduino-gesture-example) 
 
 
