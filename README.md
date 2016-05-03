@@ -29,7 +29,7 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
-![Paramecias](https://github.com/connieleung/byotics/blob/gh-pages/assets/vid/StentorParameciumFeeding.mp4?raw=true)
+![Paramecias](byotics/assets/gif/StentorParameciumFeeding.gif)
 <br>
 ### About Parameicas
 ---
