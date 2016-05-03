@@ -1,5 +1,3 @@
-
-
 ![Byotics](https://raw.githubusercontent.com/connieleung/byotics/gh-pages/assets/img/bioticgames-4.jpg)
 
 # Byotics
@@ -31,7 +29,7 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
-![Paramecias](byotics/assets/vid/Stentor Feeding with Paramecium.1.1.mp4)
+![Paramecias](https://github.com/connieleung/byotics/blob/gh-pages/assets/vid/StentorParameciumFeeding.mp4?raw=true)
 <br>
 ### About Parameicas
 ---
