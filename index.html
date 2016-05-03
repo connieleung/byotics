@@ -15,21 +15,45 @@
 		background: transparent !important;
 	}
 	
-.pong {
-	background: url(http://www.netanimations.net/pong-animated-gif.gif);
-	background-size: 100%;
-	background-position: center center;
-	background-repeat: no-repeat;
-}
+	.pong {
+		width: 100vw;
+    		height: 100vh;
+	}
+	.pong.left {
+		/* background: url(http://www.netanimations.net/pong-animated-gif.gif);
+		background-size: 100%;
+		background-position: center center;
+		background-repeat: no-repeat; */
+		width: 0.5em;
+		height: 6em;
+		background: white;
+		margin: 3em 1em;
+	}
+	
+	.pong.center {
+		height: 90vh;
+	    border-right: 0.25em dashed rgba(245,245,245,0.85);
+	    margin: 3em 1em;
+	    width: 50%;
+	}
+	.pong.right {
+		width: 0.5em;
+		height: 6em;
+		background: white;
+		margin: 3em 1em;
+	}
 	.splash.particle {
 		opacity: 0.5;
+		visibility: hidden;
+		display: none;
 	}
 	.medium-blue, .yellow, .lightish-red {
 	visibility: hidden;
 	display: none;
 	}
-		.title {
-     margin-top: 24%;
+	.title {
+     	/*margin-top: 24%;*/
+     	    margin-top: -65%;
 		}
 
 		h1 {
@@ -47,7 +71,9 @@
 <body>
 
 <section class="pong">
-	
+	<div class="left"></div>
+	<div class="center"></div>
+	<div class="right"></div>
 </section>
 
 <section class="splash particle">
