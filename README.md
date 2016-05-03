@@ -31,6 +31,7 @@ Control paramecias with an electric field and motion gesture
 
 
 <br>
+![Paramecias](byotics/assets/vid/Stentor Feeding with Paramecium.1.1.mp4)
 <br>
 ### About Parameicas
 ---
