@@ -79,6 +79,6 @@ Real-life setup
 3. Run your demo ![Demo Run](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/Gesture_init.png = 100x320)
 3. Move your hand around above the sensor, and you should see Z (height above the sensor) and X (position side to side) appear in the serial terminal ![Gesture Motion](https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/ZX_Sensor_Hook_Up_Guide-05.jpg = 320x)
 4. Live Z- and X- data should appear given as an unsigned integer between 0 and 240 (inclusive) <img width="320" https://cdn.sparkfun.com/assets/learn_tutorials/3/4/5/ZX_Demo_run.png />
-5. More information for this sensor model and hookup can be found on [SparkFun](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-hookup-guide#arduino-gesture-example) :four_leaf_clover:
+5. More information for this sensor model and hookup can be found on [SparkFun](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-hookup-guide#arduino-gesture-example) [:four_leaf_clover:](http://www.emoji-cheat-sheet.com/)
 
 
