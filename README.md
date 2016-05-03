@@ -61,6 +61,13 @@ Control paramecias with an electric field and motion gesture
 ![hardware](https://github.com/connieleung/byotics/blob/gh-pages/arduino/sketch/assets/IMG_20160129_231453.jpg?raw=true&w=60)
 
 
-
+<br>
+<br>
+### Setup
+---
+###### Arduino
+---
+1. Arduino > Sketch > Include Library > Manage Libraries... > Search "SparkFun ZX Distance and Gesture Sensor v1.0.1" (or populate keyword "gesture") > Install
+2. Arduino > File > Examples > SparkFun ZX Distance and Gesture Sensor > Select "I2C_Gesture_Demo" to get you playing
 
 
